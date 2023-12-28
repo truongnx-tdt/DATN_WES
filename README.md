@@ -1,6 +1,6 @@
 
 <span>Unit of work, Design pattern, mapper, seed data</span><br/>
-<span>Nlog, Miniprofiler, Response Compression, Authentication vs Authorization</span>
+<span>Nlog, Miniprofiler, Response Compression, Authentication vs Authorization</span><br/>
 Bước 1: Cài đặt phần mềm các phần mềm Visual Studio, Visual Studio Code, pgAdmin 4.<br/>
  Link tải Visual Studio Code: https://code.visualstudio.com/download<br/>
 Link tải Visula Studio: https://visualstudio.microsoft.com/<br/>
